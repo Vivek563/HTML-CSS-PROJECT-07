@@ -5,7 +5,7 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-![name](https://img.shields.io/badge/Vivek--Maurya-MCA--First--Year-orange)
+![name](https://img.shields.io/badge/Vivek--Maurya--Maurya)
 
 ## Project 7 [Live Link](https://vivek-html-css-project07.netlify.app/)
  <br>
